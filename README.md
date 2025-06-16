@@ -106,7 +106,7 @@
 
 ## 5. 代码实现要求
 
-- **模块化**: 严格按照 `main`, `numerical_methods`, `data_analysis`, `visualization` 的分工编写代码，禁止将所有代码堆在单个文件中。
+- **模块化**: 尽量按照 `main`, `numerical_methods`, `data_analysis`, `visualization` 的分工编写代码，模块化。
 - **注释清晰**: 对核心函数、复杂算法和关键参数进行必要的注释。
 - **可复现性**:
     - `README.md` 必须提供清晰的**运行指南**。
